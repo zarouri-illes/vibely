@@ -1,0 +1,14 @@
+{
+  "name": "vibely",
+  "version": "1.0.0",
+  "description": "A custom music player",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zarouri Illes",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  }
+}
